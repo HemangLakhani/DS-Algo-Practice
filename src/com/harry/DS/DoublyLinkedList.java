@@ -1,4 +1,4 @@
-package com.harry;
+package com.harry.DS;
 
 public class DoublyLinkedList {
     Node head;

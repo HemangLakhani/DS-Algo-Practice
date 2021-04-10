@@ -1,4 +1,6 @@
-package com.harry;
+package com.harry.DS;
+
+import com.harry.DS.Stack;
 
 public class Main {
 

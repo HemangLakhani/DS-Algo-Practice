@@ -1,4 +1,4 @@
-package com.harry;
+package com.harry.DS;
 
 public class LinkedList {
     Node head; //initially the head node will be pointing to null
